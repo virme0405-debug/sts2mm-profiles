@@ -15,8 +15,8 @@
       "folder_name": "AscensionUnlocker",
       "mod_id": "AscensionUnlocker",
       "enabled": true,
-      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/Ascension_Unlocker_v1.0.0_6e42739d.zip",
-      "bundle_sha256": "6e42739d9eda79b4bf718b6fec76fe85cb4f6f48579f2e736d9684d92d8bf2d0"
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/Ascension_Unlocker_v1.0.0_ac6dfeb0.zip",
+      "bundle_sha256": "ac6dfeb0ba6834ba90db873c479b8b866ff6a0c0ccddbb687401f32cc2938c58"
     },
     {
       "name": "BaseLib",
@@ -31,8 +31,8 @@
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.3_c9786ed9.zip",
-      "bundle_sha256": "c9786ed91ce9f91e9956efde7e286d4a5b26cb91a7d1fd5165dfecfde9088d0f"
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.3_0dfc1daf.zip",
+      "bundle_sha256": "0dfc1daf2da57a668ec5995b9d1f45063cdfcab394071bbd9001cd792d0bc1b7"
     },
     {
       "name": "DefectSkin_AD",
@@ -46,24 +46,40 @@
       "folder_name": "DefectSkin_AD.pck",
       "mod_id": "DefectSkin_AD",
       "enabled": true,
-      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/DefectSkin_AD_v0.1.0_63a1370d.zip",
-      "bundle_sha256": "63a1370d6a962b8284185a3d794dcb5ca77f639b1b745ef6987387658e2011db"
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/DefectSkin_AD_v0.1.0_33c4ca72.zip",
+      "bundle_sha256": "33c4ca72c805ec551878caf8217a771affd9abc47caa6863b929b66195af9459"
     },
     {
-      "name": "Manosaba",
-      "version": "v1.6.3",
+      "name": "LustTravel2",
+      "version": "0.15.0",
       "source": null,
-      "hash": "0902ad72ec4048292687779091eb2d9e4dbddfafed2c0d248d72d42224be3b92",
+      "hash": "160fdeaf5283c9c181b6d37c92dfdcd3f27b534a30d1772141e8f6b6c841bed3",
       "files": [
-        "Manosaba\\Manosaba.dll",
-        "Manosaba\\Manosaba.json",
-        "Manosaba\\Manosaba.pck"
+        "LustTravel2\\LustTravel2.dll",
+        "LustTravel2\\LustTravel2.pck",
+        "LustTravel2\\mod_manifest.json"
       ],
-      "folder_name": "Manosaba",
-      "mod_id": "Manosaba",
+      "folder_name": "LustTravel2",
+      "mod_id": "LustTravel2",
       "enabled": true,
-      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/Manosaba_v1.6.3_7dded106.zip",
-      "bundle_sha256": "7dded106a2dca346c1a45525a4869253b6561c4bdde6f1ba8bd716415254b79f"
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/LustTravel2_v0.15.0_3ea7e22d.zip",
+      "bundle_sha256": "3ea7e22da77289824e5b662498fb45a6a92e4ebc3051e7c1b1a2d1d4c11f605e"
+    },
+    {
+      "name": "LustTravel2 Patch",
+      "version": "0.14.0",
+      "source": null,
+      "hash": "05bdbc4f2bfd22b48b77233adfa902bea0e183089563e04b9dc5479d50862406",
+      "files": [
+        "LustTravel2_Patch\\LustTravel2_Patch.dll",
+        "LustTravel2_Patch\\LustTravel2_Patch.pck",
+        "LustTravel2_Patch\\mod_manifest.json"
+      ],
+      "folder_name": "LustTravel2_Patch",
+      "mod_id": "LustTravel2_Patch",
+      "enabled": true,
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/LustTravel2_Patch_v0.14.0_6deb3793.zip",
+      "bundle_sha256": "6deb3793f6847cb4dc518a90abdd9a58cd243465c676637f2e734412df119d30"
     },
     {
       "name": "Mesugaki_Regent",
@@ -78,8 +94,8 @@
       "folder_name": "Mesugaki",
       "mod_id": "Mesugaki",
       "enabled": true,
-      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/Mesugaki_Regent_v0.1.1_1f2c1723.zip",
-      "bundle_sha256": "1f2c17232aff8ccd352a3a357bc4cadce9679cb0a52ec79640143f73b3755379"
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/Mesugaki_Regent_v0.1.1_106b7971.zip",
+      "bundle_sha256": "106b7971f9bdd558ba2b44073991880b92b1f06398f8e14a3ebca440aaa2c49d"
     },
     {
       "name": "RegentCardsAnimeRework",
@@ -94,8 +110,24 @@
       "folder_name": "RegentCardsAnimeRework",
       "mod_id": "RegentCardsAnimeRework",
       "enabled": true,
-      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/RegentCardsAnimeRework_v0.6_b91b15eb.zip",
-      "bundle_sha256": "b91b15eba29c683b52d5876a7648b866cd7c857f00acc6d5e774e55cc9096c90"
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/RegentCardsAnimeRework_v0.6_f553c6c4.zip",
+      "bundle_sha256": "f553c6c4ff36a4869a35b97abee4839fa248a67f2d21149e80c1cf99a59cc0ea"
+    },
+    {
+      "name": "RitsuLib (STS2 0.103.2 compat)",
+      "version": "0.3.10",
+      "source": null,
+      "hash": "e1164c0170bfe8542797b7c9c1c65262e647846c96fd69989f46383b14aefaec",
+      "files": [
+        "STS2-RitsuLib\\mod_manifest.json",
+        "STS2-RitsuLib\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\STS2-RitsuLib.runtimeconfig.json"
+      ],
+      "folder_name": "STS2-RitsuLib",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_103_2_compat._v0.3.10_74be4af6.zip",
+      "bundle_sha256": "74be4af65fa5242886ce74a3c3c3eda314bf892ea38649e1747da5a266e6f48a"
     },
     {
       "name": "silentSkin",
@@ -109,8 +141,8 @@
       "folder_name": "silentSkin.pck",
       "mod_id": "silentSkin",
       "enabled": true,
-      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/silentSkin_v0.0.1_6a5787c3.zip",
-      "bundle_sha256": "6a5787c341e549b3f611377346fa68828f8d913b171228a51d64fc47a3f3f320"
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/silentSkin_v0.0.1_523868c0.zip",
+      "bundle_sha256": "523868c0ace030061a372ef21dbecbb44937884161a4edcc8c4ca287d8e4213c"
     },
     {
       "name": "Honglu",
@@ -125,8 +157,8 @@
       "folder_name": "Honglu",
       "mod_id": "Honglu",
       "enabled": false,
-      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/Honglu_v0.1.8.beta_a3052317.zip",
-      "bundle_sha256": "a3052317ff32f7eabc8f241ef0f30de14ab087b88b696fd876c117b721c5cfc1"
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/Honglu_v0.1.8.beta_4643d1ba.zip",
+      "bundle_sha256": "4643d1baa76f27029c818988f92b15afd6548b61af7531a6184b9361229a209b"
     },
     {
       "name": "M4A1TacticalWaifu",
@@ -141,8 +173,24 @@
       "folder_name": "M4A1TacticalWaifu",
       "mod_id": "M4A1TacticalWaifu",
       "enabled": false,
-      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/M4A1TacticalWaifu_v1.0.0_0b4bc37d.zip",
-      "bundle_sha256": "0b4bc37d00500e6c3464ee2354508c0e9ad5ab29cc834e19cfe1e3580f7d14d6"
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/M4A1TacticalWaifu_v1.0.0_6684c9ac.zip",
+      "bundle_sha256": "6684c9ac1616ef6ba00b25f009a7e034915a5465673330417874df6cfb8b8338"
+    },
+    {
+      "name": "Manosaba",
+      "version": "v1.6.3",
+      "source": null,
+      "hash": "0902ad72ec4048292687779091eb2d9e4dbddfafed2c0d248d72d42224be3b92",
+      "files": [
+        "Manosaba\\Manosaba.dll",
+        "Manosaba\\Manosaba.json",
+        "Manosaba\\Manosaba.pck"
+      ],
+      "folder_name": "Manosaba",
+      "mod_id": "Manosaba",
+      "enabled": false,
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/Manosaba_v1.6.3_4eb47384.zip",
+      "bundle_sha256": "4eb47384abd3fb92dd51321afcedb008d766794cc25eb62b357ec54468e7025d"
     },
     {
       "name": "Ryoshu",
@@ -157,8 +205,8 @@
       "folder_name": "Ryoshu",
       "mod_id": "Ryoshu",
       "enabled": false,
-      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/Ryoshu_v0.3.2.beta_a78716af.zip",
-      "bundle_sha256": "a78716afd8c1b0f346edae5712fd67be8aa8041f8c05ae7fb099033a3fd4b879"
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/Ryoshu_v0.3.2.beta_8c7d69c9.zip",
+      "bundle_sha256": "8c7d69c919880ba47627e0bc62a041b93426041d5f6ee8e7ddf055269b45674f"
     },
     {
       "name": "The Hermit",
@@ -173,8 +221,8 @@
       "folder_name": "HermitMod",
       "mod_id": "HermitMod",
       "enabled": false,
-      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/The_Hermit_v2.0.0_08d72ea8.zip",
-      "bundle_sha256": "08d72ea8e0b819dc27f11d335a2d47e8c90aeff7b8b674a2afe016fcbc5f0805"
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/The_Hermit_v2.0.0_6ec782f6.zip",
+      "bundle_sha256": "6ec782f68ffb46a1defe036268b1cffb303f35f486bd897a0209ea61a94af8fa"
     },
     {
       "name": "VoiceModFramework",
@@ -355,8 +403,8 @@
       "folder_name": "VoiceModFramework V1.1",
       "mod_id": "voicemod",
       "enabled": false,
-      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/VoiceModFramework_v1.0.0_8f78e20d.zip",
-      "bundle_sha256": "8f78e20d6a2b80137940fdeffdbca2c08ae67255efa4651abca22d3e43902ca2"
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/VoiceModFramework_v1.0.0_6e4be20b.zip",
+      "bundle_sha256": "6e4be20b9194e540b08ff3a1dc0fb67c35647abe1b39abf039d05b1f1f5babf9"
     },
     {
       "name": "尖塔储君卡图娘化",
@@ -371,8 +419,8 @@
       "folder_name": "RegentFemPortraits",
       "mod_id": "RegentFemPortraits",
       "enabled": false,
-      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/_v0.6.0_21bd4c05.zip",
-      "bundle_sha256": "21bd4c05b05095c707ef6b9c8b4eb53650196c65e4ca628adffaef442ba4e7d8"
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/_v0.6.0_30a30f49.zip",
+      "bundle_sha256": "30a30f49d632b49ec1a8d6e83c42eaf105a7746baf9c78c65b35fcd8d979848f"
     },
     {
       "name": "皮皮配置: ModConfig",
@@ -390,11 +438,11 @@
       "folder_name": "ModConfig",
       "mod_id": "ModConfig",
       "enabled": false,
-      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_83407e48.zip",
-      "bundle_sha256": "83407e48135384a47911e2385febabfd815539972f25ea36fc04303296d2e0ca"
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_1f4194e8.zip",
+      "bundle_sha256": "1f4194e85249706c89820fde504e345444eb2959e0789b68f2a313ad94d3cf4c"
     }
   ],
   "created_at": "2026-05-23T11:40:12.768743700Z",
-  "updated_at": "2026-05-27T01:54:05.870570100Z",
+  "updated_at": "2026-06-02T11:30:58.859373200Z",
   "public": false
 }
