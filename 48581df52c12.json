@@ -15,8 +15,8 @@
       "folder_name": "AscensionUnlocker",
       "mod_id": "AscensionUnlocker",
       "enabled": true,
-      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/Ascension_Unlocker_v1.0.0_fe3e11ea.zip",
-      "bundle_sha256": "fe3e11eab43d9008faf04962415a8a2eb19ea83e1d2c825283db545660eddd75"
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/Ascension_Unlocker_v1.0.0_6fc85bf5.zip",
+      "bundle_sha256": "6fc85bf562e366af37eb30226683843da1064bbaff9d8eb66c52e9fa66c64795"
     },
     {
       "name": "DefectSkin_AD",
@@ -30,8 +30,8 @@
       "folder_name": "DefectSkin_AD.pck",
       "mod_id": "DefectSkin_AD",
       "enabled": true,
-      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/DefectSkin_AD_v0.1.0_1f9dc798.zip",
-      "bundle_sha256": "1f9dc798bb34169712b89af72a6ed5e0b6b691b91288d3405a689d21fdf40d7b"
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/DefectSkin_AD_v0.1.0_7adef94b.zip",
+      "bundle_sha256": "7adef94b4a6c781e1ea63f8265cee96b83d7a35f92a7f870ee0450da0e92bc17"
     },
     {
       "name": "Mesugaki_Regent",
@@ -46,8 +46,8 @@
       "folder_name": "Mesugaki",
       "mod_id": "Mesugaki",
       "enabled": true,
-      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/Mesugaki_Regent_v0.1.1_386d4d94.zip",
-      "bundle_sha256": "386d4d9468bf4c721ce4032996ca6ad2c9a25fafdda0e68934848655c8dcfc42"
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/Mesugaki_Regent_v0.1.1_229f8155.zip",
+      "bundle_sha256": "229f81558dcf3fbc112a3b86465213b241c1ba67ecf2553ae4ce010d11072f8a"
     },
     {
       "name": "RegentCardsAnimeRework",
@@ -62,8 +62,8 @@
       "folder_name": "RegentCardsAnimeRework",
       "mod_id": "RegentCardsAnimeRework",
       "enabled": true,
-      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/RegentCardsAnimeRework_v0.6_c4f989cc.zip",
-      "bundle_sha256": "c4f989cc7dffacdc31a9182a9e56c8086af7aaf0add3705915bc68e37e68e6de"
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/RegentCardsAnimeRework_v0.6_c33749f1.zip",
+      "bundle_sha256": "c33749f1972204a6d63ce813f6ee2cf004849dc5337c071233cfca46ab334e96"
     },
     {
       "name": "silentSkin",
@@ -77,8 +77,8 @@
       "folder_name": "silentSkin.pck",
       "mod_id": "silentSkin",
       "enabled": true,
-      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/silentSkin_v0.0.1_95afff6c.zip",
-      "bundle_sha256": "95afff6caa31678bfa747bf1b93fecd6a724a7e3d52671f22f91e10a271736fd"
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/silentSkin_v0.0.1_f0c33542.zip",
+      "bundle_sha256": "f0c335422715a85bd47cafd87fe0e4a0820c0331bae65a5a64fd9d4e3dc2ad1b"
     },
     {
       "name": "尖塔棺者卡图娘化",
@@ -94,11 +94,74 @@
       "folder_name": "NecrobinderFemPortraits",
       "mod_id": "NecrobinderFemPortraits",
       "enabled": true,
-      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/_v0.1.0_8a4ea0bb.zip",
-      "bundle_sha256": "8a4ea0bbcba7410f5b1192e6a8b17945f287ffd7e6aa8b1917c4c1dbb6033ce2"
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/_v0.1.0_7ad3ef64.zip",
+      "bundle_sha256": "7ad3ef641cd003ca5bdfe3eb8c789911e2030cd575fdbc6ffca0e6896b0fa77a"
+    },
+    {
+      "name": "LustTravel2",
+      "version": "0.15.0",
+      "source": null,
+      "hash": "160fdeaf5283c9c181b6d37c92dfdcd3f27b534a30d1772141e8f6b6c841bed3",
+      "files": [
+        "LustTravel2\\LustTravel2.dll",
+        "LustTravel2\\LustTravel2.pck",
+        "LustTravel2\\mod_manifest.json"
+      ],
+      "folder_name": "LustTravel2",
+      "mod_id": "LustTravel2",
+      "enabled": true,
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/LustTravel2_v0.15.0_48ca3d81.zip",
+      "bundle_sha256": "48ca3d814d35739937a67eb17673e41d89eccf6ba8cfe4b652e553afa6ae14a1"
+    },
+    {
+      "name": "LustTravel2 Patch",
+      "version": "0.14.0",
+      "source": null,
+      "hash": "05bdbc4f2bfd22b48b77233adfa902bea0e183089563e04b9dc5479d50862406",
+      "files": [
+        "LustTravel2_Patch\\LustTravel2_Patch.dll",
+        "LustTravel2_Patch\\LustTravel2_Patch.pck",
+        "LustTravel2_Patch\\mod_manifest.json"
+      ],
+      "folder_name": "LustTravel2_Patch",
+      "mod_id": "LustTravel2_Patch",
+      "enabled": true,
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/LustTravel2_Patch_v0.14.0_0079a983.zip",
+      "bundle_sha256": "0079a983aa614f82ba63530d07159be3f034df1ec46f732d31389b98aa6da358"
+    },
+    {
+      "name": "necrobinderSkin",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "df139d67cf2ccbb6258caf71c53a91a4c38c1e463b1d35b8f5788b391e546184",
+      "files": [
+        "necrobinderSkin\\mod_manifest.json",
+        "necrobinderSkin\\necrobinderSkin.pck"
+      ],
+      "folder_name": "necrobinderSkin",
+      "mod_id": "necrobinderSkin",
+      "enabled": true,
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/necrobinderSkin_v0.0.1_9eb6c483.zip",
+      "bundle_sha256": "9eb6c483891d17bb12bdb4fa8e50cba704beee9616af3739b3f0d26882f89341"
+    },
+    {
+      "name": "RitsuLib (STS2 0.103.2 compat)",
+      "version": "0.3.10",
+      "source": null,
+      "hash": "e1164c0170bfe8542797b7c9c1c65262e647846c96fd69989f46383b14aefaec",
+      "files": [
+        "STS2-RitsuLib\\mod_manifest.json",
+        "STS2-RitsuLib\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\STS2-RitsuLib.runtimeconfig.json"
+      ],
+      "folder_name": "STS2-RitsuLib",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_103_2_compat._v0.3.10_2abc4a0f.zip",
+      "bundle_sha256": "2abc4a0f43505af26ced169ef88ef692726a4cbc17464fa5996cec7e7bd7538a"
     }
   ],
   "created_at": "2026-05-23T11:40:12.768743700Z",
-  "updated_at": "2026-06-03T01:02:28.600560Z",
+  "updated_at": "2026-06-03T11:49:07.616595700Z",
   "public": false
 }
