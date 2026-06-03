@@ -15,8 +15,8 @@
       "folder_name": "AscensionUnlocker",
       "mod_id": "AscensionUnlocker",
       "enabled": true,
-      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/Ascension_Unlocker_v1.0.0_6fc85bf5.zip",
-      "bundle_sha256": "6fc85bf562e366af37eb30226683843da1064bbaff9d8eb66c52e9fa66c64795"
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/Ascension_Unlocker_v1.0.0_d76e6594.zip",
+      "bundle_sha256": "d76e6594f4e068e4437f9e9cbd76614c421617c99935f3da141967ee3d4d4e1c"
     },
     {
       "name": "DefectSkin_AD",
@@ -30,8 +30,8 @@
       "folder_name": "DefectSkin_AD.pck",
       "mod_id": "DefectSkin_AD",
       "enabled": true,
-      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/DefectSkin_AD_v0.1.0_7adef94b.zip",
-      "bundle_sha256": "7adef94b4a6c781e1ea63f8265cee96b83d7a35f92a7f870ee0450da0e92bc17"
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/DefectSkin_AD_v0.1.0_71ae6e62.zip",
+      "bundle_sha256": "71ae6e6277e2b57b086d2fe15f5c1f6668754cb9df0309a35bd214f5bae67a8d"
     },
     {
       "name": "Mesugaki_Regent",
@@ -46,8 +46,8 @@
       "folder_name": "Mesugaki",
       "mod_id": "Mesugaki",
       "enabled": true,
-      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/Mesugaki_Regent_v0.1.1_229f8155.zip",
-      "bundle_sha256": "229f81558dcf3fbc112a3b86465213b241c1ba67ecf2553ae4ce010d11072f8a"
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/Mesugaki_Regent_v0.1.1_f5fa2c85.zip",
+      "bundle_sha256": "f5fa2c850462af366fd34f476166f0f7f420cd5891db2290060c04f26a54785a"
     },
     {
       "name": "RegentCardsAnimeRework",
@@ -62,8 +62,8 @@
       "folder_name": "RegentCardsAnimeRework",
       "mod_id": "RegentCardsAnimeRework",
       "enabled": true,
-      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/RegentCardsAnimeRework_v0.6_c33749f1.zip",
-      "bundle_sha256": "c33749f1972204a6d63ce813f6ee2cf004849dc5337c071233cfca46ab334e96"
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/RegentCardsAnimeRework_v0.6_c660b5d4.zip",
+      "bundle_sha256": "c660b5d4480d4ecec4cc996f6272b66022edb7d4deb0dba817f5cd85f10302d3"
     },
     {
       "name": "silentSkin",
@@ -77,8 +77,8 @@
       "folder_name": "silentSkin.pck",
       "mod_id": "silentSkin",
       "enabled": true,
-      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/silentSkin_v0.0.1_f0c33542.zip",
-      "bundle_sha256": "f0c335422715a85bd47cafd87fe0e4a0820c0331bae65a5a64fd9d4e3dc2ad1b"
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/silentSkin_v0.0.1_c740a62a.zip",
+      "bundle_sha256": "c740a62ac75defd46f4e79dc437e5dc188c16d91a0a1e0956668ae4fb76f8d0c"
     },
     {
       "name": "尖塔棺者卡图娘化",
@@ -94,8 +94,8 @@
       "folder_name": "NecrobinderFemPortraits",
       "mod_id": "NecrobinderFemPortraits",
       "enabled": true,
-      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/_v0.1.0_7ad3ef64.zip",
-      "bundle_sha256": "7ad3ef641cd003ca5bdfe3eb8c789911e2030cd575fdbc6ffca0e6896b0fa77a"
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/_v0.1.0_f11a643c.zip",
+      "bundle_sha256": "f11a643c549ad34633521822cbe9eefa98485bfc7571b3d0a5337ee2e48dd6f9"
     },
     {
       "name": "LustTravel2",
@@ -110,8 +110,8 @@
       "folder_name": "LustTravel2",
       "mod_id": "LustTravel2",
       "enabled": true,
-      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/LustTravel2_v0.15.0_48ca3d81.zip",
-      "bundle_sha256": "48ca3d814d35739937a67eb17673e41d89eccf6ba8cfe4b652e553afa6ae14a1"
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/LustTravel2_v0.15.0_c2ac98b0.zip",
+      "bundle_sha256": "c2ac98b069bae4afaf7d162b5f27743ddb761039024768a9a36fd59c56ceb88f"
     },
     {
       "name": "LustTravel2 Patch",
@@ -126,8 +126,8 @@
       "folder_name": "LustTravel2_Patch",
       "mod_id": "LustTravel2_Patch",
       "enabled": true,
-      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/LustTravel2_Patch_v0.14.0_0079a983.zip",
-      "bundle_sha256": "0079a983aa614f82ba63530d07159be3f034df1ec46f732d31389b98aa6da358"
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/LustTravel2_Patch_v0.14.0_57f7f614.zip",
+      "bundle_sha256": "57f7f61465918afc890cb2b20414f246c61b8f48d959aeedee6654f95f42fbfa"
     },
     {
       "name": "necrobinderSkin",
@@ -141,8 +141,8 @@
       "folder_name": "necrobinderSkin",
       "mod_id": "necrobinderSkin",
       "enabled": true,
-      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/necrobinderSkin_v0.0.1_9eb6c483.zip",
-      "bundle_sha256": "9eb6c483891d17bb12bdb4fa8e50cba704beee9616af3739b3f0d26882f89341"
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/necrobinderSkin_v0.0.1_f8511b76.zip",
+      "bundle_sha256": "f8511b76a25babe689aed0f699266a66ccc13b9b4fa53fb14d8536c593d7f759"
     },
     {
       "name": "RitsuLib (STS2 0.103.2 compat)",
@@ -157,8 +157,8 @@
       "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_103_2_compat._v0.3.10_2abc4a0f.zip",
-      "bundle_sha256": "2abc4a0f43505af26ced169ef88ef692726a4cbc17464fa5996cec7e7bd7538a"
+      "bundle_url": "https://github.com/virme0405-debug/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_103_2_compat._v0.3.10_cbecce83.zip",
+      "bundle_sha256": "cbecce831fd17bd5b312581b2b7f1090e9b233458cacfd4ccbfc16345a632a52"
     }
   ],
   "created_at": "2026-05-23T11:40:12.768743700Z",
